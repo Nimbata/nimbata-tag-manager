@@ -15,5 +15,5 @@
 homepage: "https://www.nimbata.com"
 documentation: "https://help.nimbata.com/hc/en-us/articles/360022214472-Activate-via-Google-Tag-Manager"
 versions:
-  - sha: d5aab634b4eb2aa629c9a78f40bc11eb88a93753
+  - sha: 519e1fd3f57ceeacb5b48d75c97604fe9304052b
     changeNotes: Initial Release
