@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://www.nimbata.com"
-documentation: "https://help.nimbata.com/hc/en-us/articles/360022214472-Activate-via-Google-Tag-Manager"
+documentation: "https://help.nimbata.com/en/article/activate-via-google-tag-manager-1m7bg14/"
 versions:
   - sha: 519e1fd3f57ceeacb5b48d75c97604fe9304052b
     changeNotes: Initial Release
