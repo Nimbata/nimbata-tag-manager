@@ -15,6 +15,8 @@
 homepage: "https://www.nimbata.com"
 documentation: "https://help.nimbata.com/en/article/activate-via-google-tag-manager-1m7bg14/"
 versions:
+  - sha: 32ea41b5104fb1b8d7795aa2810b540d9ff5e1d6
+    changeNotes: Update icon to current Nimbata brand
   - sha: 405387946349c50cd471e29a68f59fa8a4fc57ff
     changeNotes: Update template.tpl
   - sha: 519e1fd3f57ceeacb5b48d75c97604fe9304052b
